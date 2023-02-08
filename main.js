@@ -1,2 +1,2 @@
 This is latest
-This is another update 
+This is another update
